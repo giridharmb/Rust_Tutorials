@@ -84,6 +84,7 @@ A comprehensive guide to learning Rust from basics to advanced concepts, with co
 - [Do's And Dont's](Dos_And_Donts.md)
 - [REST API Guide](REST_API.md)
 - [Retry Logic](Retry_Logic.md)
+- [Advanced RUST Patterns & Implementations](Advanced_Patterns_And_Implementations.md)
 
 ## How to Use This Series
 
