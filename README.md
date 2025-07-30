@@ -81,6 +81,7 @@ A comprehensive guide to learning Rust from basics to advanced concepts, with co
 - [Parallelism & Concurrency & Multi-Threading](Parallelism_Concurrency_Multithreading.md)
 - [Tips & Tricks](Tips_And_Tricks.md)
 - [Attributes](Attributes.md)
+- [Do's And Dont's](Dos_And_Donts.md)
 
 ## How to Use This Series
 
