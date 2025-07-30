@@ -5,6 +5,7 @@ A comprehensive guide to learning Rust from basics to advanced concepts, with co
 ## Tutorial Structure
 
 ### Part 1: Foundations
+
 1. **[Getting Started & Basic Syntax](tutorial-1-getting-started.md)**
    - Installation, Hello World, Variables, Data Types
    - Complete setup guide and first programs
@@ -22,6 +23,7 @@ A comprehensive guide to learning Rust from basics to advanced concepts, with co
    - Propagating and handling errors gracefully
 
 ### Part 2: Intermediate Concepts
+
 5. **[Traits & Generics](tutorial-5-traits-generics.md)**
    - Polymorphism and code reuse
    - Trait bounds and associated types
@@ -39,6 +41,7 @@ A comprehensive guide to learning Rust from basics to advanced concepts, with co
    - Documentation best practices
 
 ### Part 3: Advanced Topics
+
 9. **[Concurrency & Threading](tutorial-9-concurrency.md)**
    - Fearless concurrency with threads
    - Message passing and shared state
@@ -56,6 +59,7 @@ A comprehensive guide to learning Rust from basics to advanced concepts, with co
     - Code generation and DSLs
 
 ### Part 4: Real-World Applications
+
 13. **[Database Integration](tutorial-13-databases.md)**
     - PostgreSQL with diesel and sqlx
     - Connection pooling and migrations
@@ -70,9 +74,11 @@ A comprehensive guide to learning Rust from basics to advanced concepts, with co
 
 ---
 
-### Part-2
+### Part-5
 
 - [Worker Pool Techniques](Worker_Pool.md)
+- [Function Signatures](Function_Signatures.md)
+- [Parallelism & Concurrency & Multi-Threading](Parallelism_Concurrency_Multithreading.md)
 
 ## How to Use This Series
 
