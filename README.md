@@ -80,6 +80,7 @@ A comprehensive guide to learning Rust from basics to advanced concepts, with co
 - [Function Signatures](Function_Signatures.md)
 - [Parallelism & Concurrency & Multi-Threading](Parallelism_Concurrency_Multithreading.md)
 - [Tips & Tricks](Tips_And_Tricks.md)
+- [Attributes](Attributes.md)
 
 ## How to Use This Series
 
