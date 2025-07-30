@@ -82,6 +82,7 @@ A comprehensive guide to learning Rust from basics to advanced concepts, with co
 - [Tips & Tricks](Tips_And_Tricks.md)
 - [Attributes](Attributes.md)
 - [Do's And Dont's](Dos_And_Donts.md)
+- [REST API Guide](REST_API.md)
 
 ## How to Use This Series
 
